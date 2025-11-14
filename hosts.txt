@@ -1,4 +1,4 @@
-growp-logurl.vercel.app growtopia1.com
-growp-logurl.vercel.app growtopia2.com
-growp-logurl.vercel.app www.growtopia1.com
-growp-logurl.vercel.app www.growtopia2.com
+logurlg.vercel.app growtopia1.com
+logurlg.vercel.app growtopia2.com
+logurlg.vercel.app www.growtopia1.com
+logurlg.vercel.app www.growtopia2.com
